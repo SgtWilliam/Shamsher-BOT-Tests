@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axie-brasil-club-models-migrations": "git+ssh://git@github.com/bajiraonakamoto/axie-brasil-club-models-migrations.git",
     "discord.js": "^12.5.3",
     "express": "^4.17.1",
     "uuid": "^8.3.2"
